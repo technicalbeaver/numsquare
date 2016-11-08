@@ -49,5 +49,7 @@ int main() {
 	string promt;
 	std::cin >> promt;
 	return 0;
+
+
 }
 
